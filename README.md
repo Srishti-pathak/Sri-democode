@@ -1,4 +1,4 @@
 # Sri-democode
 This is my first Git Repository.
 <br>
-Author-Srishti
+Author-Srishti-pathak
